@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://socialify.git.ci/mortum5/golang/image?description=1&descriptionEditable=First%20well%20designed%20golang%20repository%20created%20with%20studying%20purpouse&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light" alt="golang" width="640" height="320" />
+    <img src="https://socialify.git.ci/mortum5/go-template/image?description=1&descriptionEditable=First%20well%20designed%20golang%20repository%20created%20with%20studying%20purpouse&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light" alt="golang" width="640" height="320" />
 </p>
 
 ![Repository Top Language](https://img.shields.io/github/languages/top/mortum5/golang)
